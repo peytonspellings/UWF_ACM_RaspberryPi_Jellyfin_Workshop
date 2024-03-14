@@ -40,4 +40,4 @@ UWF ACM
 7. Create a new directory for the mounting point `sudo mkdir /mnt/media_server`
 8. Mount the drive using its drive name `sudo mount /dev/sda1 /mnt/media_server`
 9. Go back to the website configuration, and finish setting up the server
-10. Make sure to only allow access to the `media_sever` directory
+10. Make sure to only allow access to the `media_server` directory
